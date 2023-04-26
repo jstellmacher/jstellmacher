@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+<img src="![hello]https://user-images.githubusercontent.com/86083839/234658309-22747a40-78e3-4a1d-ba50-a7362f5e7da0.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+<hr>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
