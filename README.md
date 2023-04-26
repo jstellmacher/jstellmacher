@@ -1,4 +1,4 @@
-👋 Welcome, I’m @jstellmacher
+👋 ##Welcome, I’m @jstellmacher
 - 👀 I’m interested in Sushi, data, and learning!
 - 🌱 I’m currently learning marketing and management information systems
 - 💞️ I’m looking to collaborate on anything! I am still figuring out how to organize and use Github!
