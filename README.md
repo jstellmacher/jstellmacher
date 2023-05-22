@@ -1,3 +1,6 @@
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />
+
 <div style="width: 100%;">
 <img src="https://user-images.githubusercontent.com/86083839/234658309-22747a40-78e3-4a1d-ba50-a7362f5e7da0.svg" style="width: 100%;" alt="Rendered">
 </div>
