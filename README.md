@@ -20,6 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jstellmacher&show_icons=true&locale=en&layout=compact" alt="jstellmacher" />
 </p>
 <br>
+<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
