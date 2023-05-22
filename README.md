@@ -47,7 +47,7 @@
 <p><a href="https://ko-fi.com/jaistellmacher1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jaistellmacher1" /></a></p><br><br>
 <hr>
 <p align="left">
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jstellmacher&show_icons=true&locale=en" alt="jstellmacher" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jstellmacher&show_icons=true&locale=en&hide=username" alt="jstellmacher" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jstellmacher&" alt="jstellmacher" /></p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jstellmacher&label=Profile%20views&color=0e75b6&style=flat" alt="jstellmacher" /> </p>
