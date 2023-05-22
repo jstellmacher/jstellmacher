@@ -49,11 +49,11 @@
 <p align="left">
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jstellmacher&show_icons=true&locale=en&theme=" alt="jstellmacher" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jstellmacher&" alt="jstellmacher" /></p>
+<p align="left"><a href="https://github.com/jstellmacher/jais_porti/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="jstellmacher" /></a></p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jstellmacher&label=Profile%20views&color=0e75b6&style=flat" alt="jstellmacher" /> </p>
 <hr>
 <h3 align="left">Achievements:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstellmacher" alt="jstellmacher" /></a> </p>
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti/)](https://github.com/jstellmacher/jais_porti/)
-<p align="left"><a href="https://github.com/jstellmacher/jais_porti/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="jstellmacher" /></a></p>
+
