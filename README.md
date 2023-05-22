@@ -30,8 +30,8 @@
 <a href="https://www.hackerrank.com/jaijai_stell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaijai_stell" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jstellmacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jstellmacher" height="30" width="40" /></a>
 </p>
-<p><a href="https://github.com/jstellmacher/jais_porti/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="jstellmacher" /></a></p>
 </p>
+<p><a href="https://github.com/jstellmacher/jais_porti/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="jstellmacher" /></a></p>
 <br>
 <br>
 <hr>
