@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img src="https://github.com/jstellmacher/jstellmacher/blob/main/images/cat_typing.gif" />
 </p>
 <h1 align="center">Welcome, 👋 I’m @jstellmacher</h1>
