@@ -49,7 +49,7 @@
 <p><a href="https://ko-fi.com/jaistellmacher1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jaistellmacher1" /></a></p><br><br>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jstellmacher&show_icons=true&locale=en" alt="jstellmacher" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jstellmacher&" alt="jstellmacher" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jstellmacher&" alt="jstellmacher" /></p>
 
 <h3 align="left">Achievements:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstellmacher" alt="jstellmacher" /></a> </p>
