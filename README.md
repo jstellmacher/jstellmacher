@@ -55,4 +55,4 @@
 <h3 align="left">Achievements:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstellmacher" alt="jstellmacher" /></a> </p>
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=github-readme-stats)](https://github.com/jstellmacher/jais_porti)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti)](https://github.com/jstellmacher/jais_porti)
