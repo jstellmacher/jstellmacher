@@ -26,9 +26,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
