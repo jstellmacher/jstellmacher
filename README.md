@@ -1,5 +1,5 @@
 <p>
-<img src="" />
+<img src="https://github.com/jstellmacher/jstellmacher/blob/main/images/triangles-ga579bdb2a_1280.png" />
 </p>
 <h1 align="center">Welcome, 👋 I’m @jstellmacher</h1>
 <h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
