@@ -28,7 +28,7 @@
   <a href="https://github.com/jstellmacher/jais_porti/"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="jstellmacher" /></a>
 <p/>
 <p>
-  <h3 align="left">Click For Jai's Portfolio:</h3>
+  <h3 align="left">Click For Jai's Portfolio: ---> </h3>
 </p>
 <p>
 <h3 align="left">Connect with me:</h3>
