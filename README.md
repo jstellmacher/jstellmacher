@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/jstellmacher/jstellmacher/blob/main/images/" />
+<img src="https://github.com/jstellmacher/jstellmacher/blob/main/images/stacked-peaks-haikei.svg" />
 </p>
 <h1 align="center">Welcome, 👋 I’m @jstellmacher</h1>
 <h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
@@ -70,4 +70,5 @@
 <h3 align="left">Achievements:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstellmacher" alt="jstellmacher" /></a> </p>
 &nbsp;
+<img src="https://github.com/jstellmacher/jstellmacher/blob/main/images/stacked-peaks-haikei.svg" />
 
