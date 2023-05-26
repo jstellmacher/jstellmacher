@@ -12,6 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: jstellmacher/blog-post-workflow@master
+      - uses: jstellmacher/blog-post-workflows@master
         with:
           feed_list: "https://dev.to/feed/jstellmacher"
