@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/jstellmacher/jstellmacher/blob/main/images/cat_typing.gif" />
+<img src="https://github.com/jstellmacher/jstellmacher/blob/main/images/stacked-peaks-haikei.svg" />
 </p>
 <h1 align="center">Welcome, 👋 I’m @jstellmacher</h1>
 <h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
