@@ -1,5 +1,5 @@
 <p align="center">
-<img height="20%" width="100%" src="https://github.com/jstellmacher/jstellmacher/blob/main/images/hi_gif.gif" />
+<img height="20%" width="100%" src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" />
 </p>
 <h1 align="center">Welcome, 👋 I’m @jstellmacher</h1>
 <h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
