@@ -54,6 +54,7 @@
 
 ### 📔💻Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Summary: Building a Robust Backend with Flask, SQLAlchemy, and Sessions](https://dev.to/jstellmacher/quick-summary-building-a-robust-backend-with-flask-sqlalchemy-and-sessions-5ag8)
 - [Python Basics: A General Guide for Beginners](https://dev.to/jstellmacher/python-basics-a-general-guide-for-beginners-1ii9)
 - [Decisions, Decisions which Route&lpar;r&rpar; Should I Take?](https://dev.to/jstellmacher/decisions-decisions-which-router-should-i-take-1had)
 - [&quot;That Is So Fetch&quot;: Weather API Webapp](https://dev.to/jstellmacher/that-is-so-fetch-weather-api-webapp-1fo5)
