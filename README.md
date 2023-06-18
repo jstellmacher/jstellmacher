@@ -5,7 +5,7 @@
 <h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
 <hr>
 
-- 🔭 I’m currently working on [Weatherboys](https://jstellmacher.github.io/productivize)
+- 🔭 I’m currently working on [https://jstellmacher.github.io/productivize](https://github.com/jstellmacher/Productivize)
 
 - 🌱 I’m currently learning **Algorithms & Data Structures**
 
