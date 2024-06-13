@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Algorithms & Data Structures**
 
-- 👨‍💻 All of my projects **will soon to be** available at [https://jais-porti.vercel.app/](https://jais-porti.vercel.app)
+- 👨‍💻 Here is an example of one of my site **Designs** [https://jais-porti.vercel.app/](https://jais-porti.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/jstellmacher](https://dev.to/jstellmacher)
 
