@@ -28,17 +28,7 @@
 <p align="right">
   <a href="https://github.com/jstellmacher/jais_porti/"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="jstellmacher" /></a>
 <p/>
-<p>
-  <h3 align="left">Click For Jai's Portfolio: ---> </h3>
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<p>
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/jaistell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaistell" height="30" width="40" /></a>
 <a href="https://dev.to/jstellmacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jstellmacher" height="30" width="40" /></a>
