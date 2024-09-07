@@ -1,5 +1,5 @@
 <p align="center">
-<img height="10%" width="100%" src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" />
+  <img height="200" width="300" src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" />
 </p>
 
 <h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
