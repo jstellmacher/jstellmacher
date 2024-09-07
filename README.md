@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" />
+  <img src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" alt="Profile GIF" height="200" style="border-radius: 50px;">
 </p>
 
 <h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
@@ -15,13 +15,6 @@
 - ⚡ Fun fact **I am adopted!**
 
 <hr>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jstellmacher&show_icons=true&locale=en&layout=donut" alt="Top Languages"/>
-  <a href="https://github.com/jstellmacher/jais_porti/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="Pinned Repo"/>
-  </a>
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -115,6 +108,15 @@
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Break added to improve vertical spacing -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jstellmacher&show_icons=true&locale=en&layout=donut" alt="Top Languages"/>
+  <br><br>
+  <a href="https://github.com/jstellmacher/jais_porti/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jstellmacher&repo=jais_porti" alt="Pinned Repo"/>
   </a>
 </p>
 
