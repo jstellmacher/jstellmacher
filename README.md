@@ -194,8 +194,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
-<h3 align="center">Support:</h3>
-<p><a href="https://ko-fi.com/jaistellmacher1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jaistellmacher1" /></a></p><br><br>
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/jaistellmacher1"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jaistellmacher1" /></a></p>
+<br><br>
 <hr>
 <p align="center">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jstellmacher&show_icons=true&locale=en&theme=" alt="jstellmacher" /></p>
