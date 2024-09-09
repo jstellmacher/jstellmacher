@@ -28,7 +28,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 
 <hr>
 
-<h3 align="center">💼 Connect with Me</h3>
+<h3 align="center">💼 Connect with Me 🛜</h3>
 
 <!-- LinkedIn Button -->
 <p align="center">
