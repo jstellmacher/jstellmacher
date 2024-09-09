@@ -87,104 +87,104 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/><br>Blender
+      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/><br>Blender
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/><br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/><br>Bootstrap
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/><br>CSS3
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/><br>CSS3
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/><br>Django
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/><br>Django
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/><br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/><br>Flask
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/><br>HTML5
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/><br>Illustrator
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br>JavaScript
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/><br>Figma
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br>Linux
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/><br>Flask
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br>Next.js
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/><br>Git
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br>Node.js
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/><br>HTML5
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/><br>Oracle
+      <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40"/><br>Illustrator
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/><br>Photoshop
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/><br>PostgreSQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/><br>Postman
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br>React
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/><br>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/><br>Tailwind CSS
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/><br>Linux
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/><br>Next.js
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/><br>Vue.js
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br>Node.js
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure.svg" alt="Microsoft Azure" width="40" height="40"/><br>Azure
+      <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" width="40" height="40"/><br>Oracle
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/><br>AWS
+      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40"/><br>Pandas
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br>Java
+      <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/><br>Photoshop
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/><br>MySQL
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/><br>PostgreSQL
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-visio.svg" alt="MS Visio" width="40" height="40"/><br>MS Visio
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/><br>Postman
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/><br>Tableau
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/><br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/><br>Power BI
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/><br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/><br>Tailwind CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/><br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vuejs" alt="Vue.js" width="40" height="40"/><br>Vue.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" width="40" height="40"/><br>Azure
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/><br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=visio" alt="MS Visio" width="40" height="40"/><br>MS Visio
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" width="40" height="40"/><br>Tableau
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="40" height="40"/><br>Power BI
     </td>
   </tr>
 </table>
