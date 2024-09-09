@@ -195,13 +195,166 @@ Oracle<br>
 </table>
 
 <details>
-<summary>🪛 Other Tools 🪚</summary>
-<img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="40" height="40"/><br>Power BI
+  <summary>🪛 Other Tools 🪚</summary>
+  <table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
+      <br>Anaconda
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="40" height="40"/>
+      <br>Apple
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" width="40" height="40"/>
+      <br>CodePen
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="40" height="40"/>
+      <br>Dev.to
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40"/>
+      <br>Discord
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
+      <br>Django
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/>
+      <br>GCP
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="40" height="40"/>
+      <br>Gradle
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
+      <br>GraphQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="40" height="40"/>
+      <br>Heroku
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" height="40"/>
+      <br>IDEA
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/>
+      <br>jQuery
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40"/>
+      <br>Markdown
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
+      <br>Notion
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="40" height="40"/>
+      <br>NPM
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40"/>
+      <br>PowerShell
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="40" height="40"/>
+      <br>PyCharm
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
+      <br>Redux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
+      <br>SQLite
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" height="40"/>
+      <br>Stack Overflow
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="40" height="40"/>
+      <br>scikit-learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
+      <br>Vercel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="40" height="40"/>
+      <br>WordPress
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" width="40" height="40"/>
+      <br>Adobe XD
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
   <summary>🙏 Thank you for letting me use your Icons! ❤️ </summary>
   <ul>
+    <li><a target="_blank" href="https://github.com/tandpfun/skill-icons">Majority of Icons come from: tandpfun's Github repo which is linked. Thank you!</a></li>
+    <br>
     <li><a target="_blank" href="https://icons8.com">Oracle Icon from Icons8 Thank you!</a></li>
     <li><a target="_blank" href="https://icons8.com">Pandas Icon from Icons8 Thank you!</a></li>
     <li><a target="_blank" href="https://icons8.com">Microsoft Visio Icon from Icons8 Thank you!</a></li>
