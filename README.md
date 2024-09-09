@@ -24,12 +24,14 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 <!-- LinkedIn Button -->
 <table align="center">
   <tr>
+    <td align="center">
 <p align="center">
   <a href="https://linkedin.com/in/jaichuang-stellmacher" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
     <br/><strong>Connect on LinkedIn</strong>
   </a>
 </p>
+  </td>
     </tr>
 </table>
 
