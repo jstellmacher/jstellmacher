@@ -131,7 +131,8 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br>Node.js
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" width="40" height="40"/><br>Oracle
+      <img width="64" height="64" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo"/>
+<br>Oracle
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40"/><br>Pandas
