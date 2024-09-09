@@ -66,6 +66,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+<h3 align="center">Languages and Tools:</h3>
+
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -144,6 +146,29 @@
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/><br>Vue.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure.svg" alt="Microsoft Azure" width="40" height="40"/><br>Azure
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/><br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-visio.svg" alt="MS Visio" width="40" height="40"/><br>MS Visio
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/><br>Tableau
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/><br>Power BI
     </td>
   </tr>
 </table>
