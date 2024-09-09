@@ -24,7 +24,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 - 💬 **Ask me about**: React, Tailwind, Python
 - 📫 **Reach me @**: jaijai.stell@gmail.com
 - 📄 **Professional Profile**: [RESUME](https://docs.google.com/document/d/1VLkC0Zy2qz4mmUR__-OPIQ1Gn7AhhFv5b41P0xn1PIc/edit?usp=sharing)
-- ⚡ **Fun fact**: I am adopted!
+- ⚡ **Fun fact**: I am adopted from Beautiful Thailand! 🇹🇭
 
 <hr>
 
