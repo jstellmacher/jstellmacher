@@ -131,7 +131,11 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br>Node.js
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" width="40" height="40"/><br>Oracle
+<a target="_blank" href="https://icons8.com/icon/69475/oracle-logo">
+    <img src="icons8-oracle-logo.svg" alt="Oracle logo" width="64" height="40"/>
+</a>
+<br>
+Oracle<br>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40"/><br>Pandas
@@ -192,10 +196,19 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 
 <details>
 <summary>🪛 Other Tools 🪚</summary>
-<br>
 <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="40" height="40"/><br>Power BI
 </details>
 
+<details>
+  <summary>🙏 Thank you for letting me use your Icons! ❤️ </summary>
+  <ul>
+    <li><a target="_blank" href="https://icons8.com">Oracle Icon from Icons8 Thank you!</a></li>
+    <li><a target="_blank" href="https://icons8.com">Pandas Icon from Icons8 Thank you!</a></li>
+    <li><a target="_blank" href="https://icons8.com">Microsoft Visio Icon from Icons8 Thank you!</a></li>
+    <li><a target="_blank" href="https://icons8.com">Tableau Icon from Icons8 Thank you!</a></li>
+    <li><a target="_blank" href="https://icons8.com">Power Bi Icon from Icons8 Thank you!</a></li>
+  </ul>
+</details>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jstellmacher&label=Profile%20views&color=0e75b6&style=flat" alt="jstellmacher" /> </p>
 
 <p align="center">
@@ -232,4 +245,3 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 <h3 align="center">Achievements:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstellmacher" alt="jstellmacher" /></a> </p>
 &nbsp;
-
