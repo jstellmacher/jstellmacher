@@ -2,7 +2,8 @@
   <img src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" alt="Profile GIF" height="200" style="border-radius: 50px;">
 </p>
 
-<h3 align="center">👨‍💻 Motivated IT Consultant with about a year of hands-on experience in cloud computing, full-stack development, and project management. I hold a Bachelor of Science in Business Administration (BSBA) in Management Information Systems (MIS) and Marketing from a top program and have earned certifications in Microsoft Azure Fundamentals and Full Stack Software Engineering!</h3>
+<h3 align="center">👨‍💻 Motivated IT Consultant </h3> <p>with about a year of hands-on experience in cloud computing, full-stack development, and project management. I hold a Bachelor of Science in Business Administration (BSBA) in Management Information Systems (MIS) and Marketing from a top program and have earned certifications in Microsoft Azure Fundamentals and Full Stack Software Engineering!
+  </p>
 <hr>
 
 - 🔭 **Currently working on**: [Portfo - A modern portfolio](https://github.com/jstellmacher/portfo-frontend)
