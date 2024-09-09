@@ -2,8 +2,10 @@
   <img src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" alt="Profile GIF" height="200" style="border-radius: 50px;">
 </p>
 
-<h3 align="center">👨‍💻 Motivated IT Consultant </h3> <p>with about a year of hands-on experience in cloud computing, full-stack development, and project management. I hold a Bachelor of Science in Business Administration (BSBA) in Management Information Systems (MIS) and Marketing from a top program and have earned certifications in Microsoft Azure Fundamentals and Full Stack Software Engineering!
-  </p>
+### 👨‍💻 Motivated IT Consultant  
+With about **1 year** of hands-on experience in **cloud computing**, **full-stack development**, and **project management** 🌐, I hold a **Bachelor of Science in Business Administration (BSBA)** with a focus in **Management Information Systems (MIS)** and **Marketing** 🎓 from a top program. 
+
+- In addition, I’ve earned certifications in **Microsoft Azure Fundamentals** ☁️ and **Full Stack Software Engineering** 💻!
 <hr>
 
 - 🔭 **Currently working on**: [Portfo - A modern portfolio](https://github.com/jstellmacher/portfo-frontend)
@@ -21,12 +23,14 @@
 
 <!-- LinkedIn Button -->
 <table align="center">
+  <tr>
 <p align="center">
   <a href="https://linkedin.com/in/jaichuang-stellmacher" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
     <br/><strong>Connect on LinkedIn</strong>
   </a>
 </p>
+    </tr>
 </table>
 
 
