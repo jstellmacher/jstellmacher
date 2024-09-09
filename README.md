@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" alt="Profile GIF" height="200" style="border-radius: 50px;">
+  <img src="linkedin_banner (1).png" alt="Profile GIF" height="200" style="border-radius: 50px;">
 </p>
 
 ### 👨‍💻 Motivated IT Consultant  
