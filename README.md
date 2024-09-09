@@ -188,6 +188,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
     </td>
   </tr>
 </table>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jstellmacher&label=Profile%20views&color=0e75b6&style=flat" alt="jstellmacher" /> </p>
 
 <p align="center">
