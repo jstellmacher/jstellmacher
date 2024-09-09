@@ -170,7 +170,7 @@
     </td>
   </tr>
 </table>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jstellmacher&label=Profile%20views&color=0e75b6&style=flat" alt="jstellmacher" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jstellmacher&label=Profile%20views&color=0e75b6&style=flat" alt="jstellmacher" /> </p>
 
 <p align="center">
   <!-- Break added to improve vertical spacing -->
