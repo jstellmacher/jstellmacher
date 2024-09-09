@@ -138,7 +138,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 Oracle<br>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40"/><br>Pandas
+      <img src="icons8-pandas.svg" alt="Pandas" width="40" height="40"/><br>Pandas
     </td>
   </tr>
   <tr>
@@ -183,13 +183,13 @@ Oracle<br>
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br>MySQL
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=visio" alt="MS Visio" width="40" height="40"/><br>MS Visio
+      <img src="icons8-visio.svg" alt="MS Visio" width="40" height="40"/><br>MS Visio
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" width="40" height="40"/><br>Tableau
+      <img src="icons8-tableau-software.svg" alt="Tableau" width="40" height="40"/><br>Tableau
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="40" height="40"/><br>Power BI
+      <img src="icons8-power-bi.svg" alt="Power BI" width="40" height="40"/><br>Power BI
     </td>
   </tr>
 </table>
