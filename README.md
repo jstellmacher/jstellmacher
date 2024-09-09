@@ -17,26 +17,52 @@
 <hr>
 
 <h3 align="center">Connect with me:</h3>
+
+<!-- LinkedIn Button -->
 <p align="center">
-  <a href="https://codepen.io/jaistell" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/>
-  </a>
-  <a href="https://dev.to/jstellmacher" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/>
-  </a>
   <a href="https://linkedin.com/in/jaichuang-stellmacher" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://kaggle.com/jaistell" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/jaijai_stell" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/jstellmacher" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+    <br/><strong>Connect on LinkedIn</strong>
   </a>
 </p>
+
+<!-- Social Media Table -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://codepen.io/jaistell" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/>
+        <br/>CodePen
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dev.to/jstellmacher" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/>
+        <br/>Dev.to
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/jaistell" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
+        <br/>Kaggle
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerrank.com/jaijai_stell" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+        <br/>HackerRank
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/jstellmacher" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+        <br/>LeetCode
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Languages and Tools:</h3>
 
