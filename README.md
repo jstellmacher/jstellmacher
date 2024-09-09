@@ -2,29 +2,32 @@
   <img src="https://github.com/jstellmacher/jstellmacher/blob/main/hi_gif.gif" alt="Profile GIF" height="200" style="border-radius: 50px;">
 </p>
 
-<h3 align="center">A passionate fullstack software engineer with a BSBA in Management Information Systems and Marketing!</h3>
+<h3 align="center">👨‍💻 Motivated IT Consultant with about a year of hands-on experience in cloud computing, full-stack development, and project management. I hold a Bachelor of Science in Business Administration (BSBA) in Management Information Systems (MIS) and Marketing from a top program and have earned certifications in Microsoft Azure Fundamentals and Full Stack Software Engineering!</h3>
 <hr>
 
-- 🔭 I’m currently working on [Portfo - A modern portfolio](https://github.com/jstellmacher/portfo-frontend)
-- 🌱 I’m currently learning **Algorithms & Data Structures**
-- 👨‍💻 Here is an example of one of my site **Designs** [https://jais-porti.vercel.app/](https://jais-porti.vercel.app)
-- 📝 I regularly write articles on [https://dev.to/jstellmacher](https://dev.to/jstellmacher)
-- 💬 Ask me about **React, Tailwind, Python**
-- 📫 How to reach me **jaijai.stell@gmail.com**
-- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1VLkC0Zy2qz4mmUR__-OPIQ1Gn7AhhFv5b41P0xn1PIc/edit?usp=sharing)
-- ⚡ Fun fact **I am adopted!**
+- 🔭 **Currently working on**: [Portfo - A modern portfolio](https://github.com/jstellmacher/portfo-frontend)
+- 🌱 **Currently learning**: Algorithms & Data Structures
+- 👨‍💻 **Site Design Example**: [https://jais-porti.vercel.app/](https://jais-porti.vercel.app)
+- 📝 **Blog articles on**: [https://dev.to/jstellmacher](https://dev.to/jstellmacher)
+- 💬 **Ask me about**: React, Tailwind, Python
+- 📫 **Reach me @**: jaijai.stell@gmail.com
+- 📄 **Professional Profile**: [RESUME](https://docs.google.com/document/d/1VLkC0Zy2qz4mmUR__-OPIQ1Gn7AhhFv5b41P0xn1PIc/edit?usp=sharing)
+- ⚡ **Fun fact**: I am adopted!
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">💼 Connect with Me</h3>
 
 <!-- LinkedIn Button -->
+<table align="center">
 <p align="center">
   <a href="https://linkedin.com/in/jaichuang-stellmacher" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
     <br/><strong>Connect on LinkedIn</strong>
   </a>
 </p>
+</table>
+
 
 <!-- Social Media Table -->
 <table align="center">
