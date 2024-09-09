@@ -10,7 +10,7 @@
 With about **1 year** of hands-on experience in **cloud computing**, **full-stack development**, and **project management** 🌐, I hold a **Bachelor of Science in Business Administration (BSBA)** with a focus in **Management Information Systems (MIS)** and **Marketing** 🎓 from a top program. 
 
 - In addition, I’ve earned certifications in **Microsoft Azure Fundamentals** ☁️ and **Full Stack Software Engineering** 💻!
-
+<br></br>
 </td>
 </tr>
 </table>
