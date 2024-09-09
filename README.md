@@ -82,7 +82,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
   </tr>
 </table>
 
-<h3 align="center">🤟 Languages and Tools 🛠️</h3>
+<h3 align="center">🤟 Most Used Languages and Tools 🛠️</h3>
 
 <table align="center">
   <tr>
