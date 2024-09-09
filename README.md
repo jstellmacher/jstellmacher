@@ -74,7 +74,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
   </tr>
 </table>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🤟 Languages and Tools 🛠️</h3>
 
 <table align="center">
   <tr>
@@ -191,7 +191,10 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
   </a>
 </p>
 
+<hr>
+
 ### 📔💻Latest Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Effective Strategies for Error Handling and Debugging in React Web Development and Backend Python Development](https://dev.to/jstellmacher/effective-strategies-for-error-handling-and-debugging-in-react-web-development-and-backend-python-development-20ca)
 - [Quick Summary: Building a Robust Backend with Flask, SQLAlchemy, and Sessions](https://dev.to/jstellmacher/quick-summary-building-a-robust-backend-with-flask-sqlalchemy-and-sessions-5ag8)
