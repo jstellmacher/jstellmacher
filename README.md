@@ -2,10 +2,18 @@
   <img src="linkedin_banner (1).png" alt="Profile GIF" height="200" style="border-radius: 50px;">
 </p>
 
+<table align="center">
+  <tr>
+    <td align="left">
+      
 ### 👨‍💻 Motivated IT Consultant  
 With about **1 year** of hands-on experience in **cloud computing**, **full-stack development**, and **project management** 🌐, I hold a **Bachelor of Science in Business Administration (BSBA)** with a focus in **Management Information Systems (MIS)** and **Marketing** 🎓 from a top program. 
 
 - In addition, I’ve earned certifications in **Microsoft Azure Fundamentals** ☁️ and **Full Stack Software Engineering** 💻!
+
+</td>
+</tr>
+</table>
 <hr>
 
 - 🔭 **Currently working on**: [Portfo - A modern portfolio](https://github.com/jstellmacher/portfo-frontend)
