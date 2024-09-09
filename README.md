@@ -66,8 +66,6 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
         <br/>Kaggle
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/jaijai_stell" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
