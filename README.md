@@ -81,7 +81,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
     </td>
   </tr>
 </table>
-<br></br>
+<br>
 
 <h3 align="center">🤟 Most Used Languages and Tools 🛠️</h3>
 
@@ -189,6 +189,12 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
     </td>
   </tr>
 </table>
+
+<details>
+<summary>🪛 Other Tools 🪚</summary>
+<br>
+<img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="40" height="40"/><br>Power BI
+</details>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jstellmacher&label=Profile%20views&color=0e75b6&style=flat" alt="jstellmacher" /> </p>
 
