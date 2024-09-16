@@ -17,7 +17,7 @@ With about **1 year** of hands-on experience in **cloud computing**, **full-stac
 </table>
 <hr>
 
-- 🔭 **Currently working on**: [Portfo - A modern portfolio](https://github.com/jstellmacher/portfo-frontend)
+- 🔭 **Currently working on**: ([https://github.com/jstellmacher/portfo-frontend](https://github.com/jstellmacher/site))
 - 🌱 **Currently learning**: Algorithms & Data Structures
 - 👨‍💻 **Site Design Example**: [https://jais-porti.vercel.app/](https://jais-porti.vercel.app)
 - 📝 **Blog articles on**: [https://dev.to/jstellmacher](https://dev.to/jstellmacher)
